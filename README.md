@@ -52,3 +52,5 @@ The dataset was cleaned by:
 - Contributed to report writing
 
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
