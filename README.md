@@ -1,6 +1,8 @@
 # Riyadh-Airbnb-Dashboard
 Interactive data visualization dashboard analyzing Riyadh Airbnb listings, pricing patterns, geographic distribution, host behavior, and market trends using business intelligence and storytelling techniques.
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
 
 # 🏠 Riyadh Airbnb Data Visualization
 
@@ -52,5 +54,3 @@ The dataset was cleaned by:
 - Contributed to report writing
 
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
